@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Valeriano</h1>
 <h3 align="center">A passionate Data Analysis/Science student from Brazil</h3>
 
-- 🔭 I’m currently working on **Better Transport**
+- 🔭 I’m currently working on **a shipping company**
 
 - 🌱 I am currently learning (and will always be learning) **Data Analysis, Data Science, ML & AI**
 
@@ -29,9 +29,9 @@ ________________________________________________________________________________
 <h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
 <h3 align="center">Um apaixonado estudante de Análise de Dados/Ciências do Brasil</h3>
 
-- 🔭 Atualmente estou trabalhando no **Better Transport**
+- 🔭 Atualmente estou trabalhando em **transportadora**
 
-- 🌱 Atualmente estou aprendendo (e sempre estarei aprendendo) **Análise de Dados, Ciência de Dados, ML & IA**
+- 🌱 Atualmente (e sempre estarei aprendendo) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
 
 - 👯 Estou procurando colaborar em **Projetos de dados (IA, ML, Análise de Dados e Ciência de Dados))**
 
