@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
-<h3 align="center">Um estudante de Análise/Ciências de Dados</h3>
+<h3 align="center">Sou bacharel em Tecnologia da Informação pela UNIVESP e um eterno estudante de Análise/Ciências de Dados</h3>
 
 - 🔭 Atualmente trabalho na filial de São Paulo de uma **transportadora** de cargas.
 
@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Gabriel Valeriano</h1>
-<h3 align="center">A passionate Data Analysis/Science student from Brazil</h3>
+<h3 align="center">I have a bachelor's degree in Information Technology from UNIVESP and am an eternal student of Analysis/Data Science from Brazil</h3>
 
 - 🔭 I’m currently working on **a shipping company**
 
@@ -50,6 +50,7 @@ ________________________________________________________________________________
 
 
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/ValerianoGabriel"> 🔗
   https://gitfollio.vercel.app/ValerianoGabriel
@@ -60,14 +61,14 @@ Acesse meu portfólio em:
   "gitfolio": "on",
   "name": "Gabriel Valeriano",
   "email": "gr.valeriano98@gmail.com",
-  "tagline": "",
+  "tagline": "Data Science / Data Analysis",
   "avatar_url": "https://avatars.githubusercontent.com/u/161485475?v=4",
   "website": "https://valerianogabriel.github.io/portfolio_projects/",
   "githubUser": "ValerianoGabriel",
   "linkedinUser": "https://www.linkedin.com/in/gabriel-valeriano-365b46241/",
-  "about": "Meu nome é Gabriel Valeriano, sou bacharel em Tecnologia da Informação pela UNIVESP e trabalho como Assistente Administrativo em uma transportadora.
+  "about": "Meu nome é Gabriel Valeriano, sou bacharel em Tecnologia da Informação pela UNIVESP e trabalho como Assistente Administrativo em uma transportadora com filial em SP.
 
-Atualmente, estou na parte financeira da filial de São Paulo, realizando os pagamentos de agregados e justificando custos de entregas para a matriz no Rio Grande do Sul. Também trabalho com projetos pessoais de Ciências de Dados para adquirir experiências na solução de problemas de negócios e domínio das ferramentas de análise de dados.",
+Busco uma oportunidade para trabalhar profissionalmente como Cientista de Dados para melhorar as tomadas de decisões da empresa utilizando dados, trazendo melhores resultados e menores custos.",
   "showStars": false,
   "showFollowers": false,
   "followers": 0,
@@ -83,22 +84,25 @@ Atualmente, estou na parte financeira da filial de São Paulo, realizando os pag
 ],
   "projects": [
   {
-    "id": 863841104,
-    "repoName": "Database",
-    "url": "https://github.com/ValerianoGabriel/Database",
+    "id": 926589281,
+    "repoName": "Data-Science",
+    "url": "https://github.com/ValerianoGabriel/Data-Science",
     "stars": 0,
-    "description": "Exercícios de SQL praticados em curso na Udemy",
-    "image": "https://www.freepik.com/free-photos-vectors/database-illustration",
-    "techs": [],
+    "description": "Praticando Pandas utilizando o Jupyter Notebook, tendo como base um Dataset do mercado imobiliário australiano retirado do Kaggle",
+    "image": "https://www.gisma.com/programmes/undergraduate/bsc-data-science-ai-and-digital-business",
+    "techs": [
+      "Pandas",
+      "Jupyter"
+    ],
     "deploy": "",
-    "highlighted": false
+    "highlighted": true
   },
   {
     "id": 810479952,
     "repoName": "Python",
     "url": "https://github.com/ValerianoGabriel/Python",
     "stars": 0,
-    "description": "Exercícios praticados durante o curso de Programação em Python pelo SENAI Suzano",
+    "description": "Exercícios práticos feitos no curso de Programação em Python pelo SENAI Suzano",
     "image": "https://commons.wikimedia.org/wiki/File:Python_logo_01.svg",
     "techs": [
       "Python"
@@ -107,18 +111,17 @@ Atualmente, estou na parte financeira da filial de São Paulo, realizando os pag
     "highlighted": false
   },
   {
-    "id": 926589281,
-    "repoName": "Data-Science",
-    "url": "https://github.com/ValerianoGabriel/Data-Science",
+    "id": 863841104,
+    "repoName": "Database",
+    "url": "https://github.com/ValerianoGabriel/Database",
     "stars": 0,
-    "description": "Exercícios de Data Science para aprimorar minhas habilidades utilizando um Dataset do mercado de casas na Austrália.",
-    "image": "https://www.shutterstock.com/pt/search/big-data-scientist",
+    "description": "Exercícios de SQL feitos em cursos da Udemy",
+    "image": "https://www.svgrepo.com/svg/499816/database",
     "techs": [
-      "Pandas",
-      "Jupyter"
+      "SQL"
     ],
     "deploy": "",
-    "highlighted": true
+    "highlighted": false
   }
 ]
 }
