@@ -47,3 +47,79 @@ ________________________________________________________________________________
 
 <h3 align="left">Linguagens de programação e ferramentas:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/ValerianoGabriel"> 🔗
+  https://gitfollio.vercel.app/ValerianoGabriel
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Gabriel Valeriano",
+  "email": "gr.valeriano98@gmail.com",
+  "tagline": "",
+  "avatar_url": "https://avatars.githubusercontent.com/u/161485475?v=4",
+  "website": "https://valerianogabriel.github.io/portfolio_projects/",
+  "githubUser": "ValerianoGabriel",
+  "linkedinUser": "https://www.linkedin.com/in/gabriel-valeriano-365b46241/",
+  "about": "Meu nome é Gabriel Valeriano, sou bacharel em Tecnologia da Informação pela UNIVESP e trabalho como Assistente Administrativo em uma transportadora.
+
+Atualmente, estou na parte financeira da filial de São Paulo, realizando os pagamentos de agregados e justificando custos de entregas para a matriz no Rio Grande do Sul. Também trabalho com projetos pessoais de Ciências de Dados para adquirir experiências na solução de problemas de negócios e domínio das ferramentas de análise de dados.",
+  "showStars": false,
+  "showFollowers": false,
+  "followers": 0,
+  "following": 0,
+  "themeId": "modern",
+  "tech": [
+  "Python",
+  "SQL",
+  "MySQL",
+  "Matplotlib",
+  "Seaborn",
+  "Pandas"
+],
+  "projects": [
+  {
+    "id": 863841104,
+    "repoName": "Database",
+    "url": "https://github.com/ValerianoGabriel/Database",
+    "stars": 0,
+    "description": "Exercícios de SQL praticados em curso na Udemy",
+    "image": "https://www.freepik.com/free-photos-vectors/database-illustration",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 810479952,
+    "repoName": "Python",
+    "url": "https://github.com/ValerianoGabriel/Python",
+    "stars": 0,
+    "description": "Exercícios praticados durante o curso de Programação em Python pelo SENAI Suzano",
+    "image": "https://commons.wikimedia.org/wiki/File:Python_logo_01.svg",
+    "techs": [
+      "Python"
+    ],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 926589281,
+    "repoName": "Data-Science",
+    "url": "https://github.com/ValerianoGabriel/Data-Science",
+    "stars": 0,
+    "description": "Exercícios de Data Science para aprimorar minhas habilidades utilizando um Dataset do mercado de casas na Austrália.",
+    "image": "https://www.shutterstock.com/pt/search/big-data-scientist",
+    "techs": [
+      "Pandas",
+      "Jupyter"
+    ],
+    "deploy": "",
+    "highlighted": true
+  }
+]
+}
+GitFolio:end -->
+  
