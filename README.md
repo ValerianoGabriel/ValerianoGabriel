@@ -1,3 +1,25 @@
+<h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
+<h3 align="center">Um apaixonado estudante de Análise de Dados/Ciências do Brasil</h3>
+
+- 🔭 Atualmente estou trabalhando em **transportadora**
+
+- 🌱 Atualmente (e sempre estarei aprendendo) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
+
+- 👯 Estou procurando colaborar em **Projetos de dados (IA, ML, Análise de Dados e Ciência de Dados))**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ValerianoGabriel](https://github.com/ValerianoGabriel)
+
+- 📫 Você pode entrar em contato comigo no meu perfil do LinkedIn: **https://www.linkedin.com/in/gabriel-valeriano-365b46241/**
+
+- <h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://kaggle.com/gabrielvaleriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabrielvaleriano" height="30" width="40" /></a>
+<a href="https://instagram.com/gr.valeriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr.valeriano" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens de programação e ferramentas:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
 <h1 align="center">Hi 👋, I'm Gabriel Valeriano</h1>
 <h3 align="center">A passionate Data Analysis/Science student from Brazil</h3>
 
@@ -26,27 +48,6 @@
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-<h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
-<h3 align="center">Um apaixonado estudante de Análise de Dados/Ciências do Brasil</h3>
-
-- 🔭 Atualmente estou trabalhando em **transportadora**
-
-- 🌱 Atualmente (e sempre estarei aprendendo) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
-
-- 👯 Estou procurando colaborar em **Projetos de dados (IA, ML, Análise de Dados e Ciência de Dados))**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ValerianoGabriel](https://github.com/ValerianoGabriel)
-
-- 📫 Você pode entrar em contato comigo no meu perfil do LinkedIn: **https://www.linkedin.com/in/gabriel-valeriano-365b46241/**
-
-- <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://kaggle.com/gabrielvaleriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabrielvaleriano" height="30" width="40" /></a>
-<a href="https://instagram.com/gr.valeriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr.valeriano" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens de programação e ferramentas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
 Acesse meu portfólio em: 
