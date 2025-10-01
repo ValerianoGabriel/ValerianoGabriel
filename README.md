@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
-<h3 align="center">Um apaixonado estudante de Análise de Dados/Ciências do Brasil</h3>
+<h3 align="center">Um estudante de Análise/Ciências de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando em **transportadora**
+- 🔭 Atualmente trabalho na filial de São Paulo de uma **transportadora** de cargas.
 
-- 🌱 Atualmente (e sempre estarei aprendendo) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
+- 🌱 Atualmente (e sempre) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
 
 - 👯 Estou procurando colaborar em **Projetos de dados (IA, ML, Análise de Dados e Ciência de Dados))**
 
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **a shipping company**
 
-- 🌱 I am currently learning (and will always be learning) **Data Analysis, Data Science, ML & AI**
+- 🌱 I am currently (and always) learning **Data Analysis, Data Science, ML & AI**
 
 - 👯 I’m looking to collaborate on **Data projects (AI,ML, Data Analysis & Data Science))**
 
