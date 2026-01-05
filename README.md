@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou Gabriel Valeriano</h1>
-<h3 align="center">Sou bacharel em Tecnologia da Informação pela UNIVESP e um eterno estudante de Análise/Ciências de Dados</h3>
+<h3 align="center">Sou bacharel em Tecnologia da Informação pela UNIVESP e um eterno estudante de Cibersegurança e Governança de TI</h3>
 
 - 🔭 Atualmente trabalho na filial de São Paulo de uma **transportadora** de cargas.
 
-- 🌱 Atualmente (e sempre) estou aprendendo **Análise de Dados, Ciência de Dados, ML & IA**
+- 🌱 Atualmente estou aprendendo Governança de TI e os frameworks **ITIL, COBIT E ISO 27001/2**
 
-- 👯 Estou procurando colaborar em **Projetos de dados (IA, ML, Análise de Dados e Ciência de Dados))**
+- 👯 Estou procurando colaborar em **Projetos de Segurança da Informação e Cibersegurança**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ValerianoGabriel](https://github.com/ValerianoGabriel)
 
@@ -21,13 +21,13 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Gabriel Valeriano</h1>
-<h3 align="center">I have a bachelor's degree in Information Technology from UNIVESP and am an eternal student of Analysis/Data Science from Brazil</h3>
+<h3 align="center">I have a bachelor's degree in Information Technology from UNIVESP and am a lifelong student of Cybersecurity and IT Governance</h3>
 
 - 🔭 I’m currently working on **a shipping company**
 
-- 🌱 I am currently (and always) learning **Data Analysis, Data Science, ML & AI**
+- 🌱 I am currently learning IT Governance and the **ITIL, COBIT, and ISO 27001/2** frameworks.
 
-- 👯 I’m looking to collaborate on **Data projects (AI,ML, Data Analysis & Data Science))**
+- 👯 I am looking to collaborate on **Information Security and Cybersecurity Projects**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValerianoGabriel](https://github.com/ValerianoGabriel)
 
